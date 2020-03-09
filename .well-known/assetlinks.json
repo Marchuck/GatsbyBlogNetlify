@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "pl.marczak.firebasetest",
+    "sha256_cert_fingerprints":
+    ["D8:88:AD:65:DD:D9:00:1B:55:CC:BC:D3:82:09:29:E2:27:BD:D1:3F:96:CE:B0:3F:9E:5A:54:A6:49:C6:14:D1"]
+  }
+}]
